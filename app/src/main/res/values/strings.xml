@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MadHo-One</string>
+    <string name="startText">低调哥的第一个渣渣App~</string>
+    <string name="btnAct1">part 1</string>
+    <string name="btnAct2">part 2</string>
+    <string name="btnAct3">part 3</string>
+
+    <string name="btnBack">返回</string>
+
+    <string name="act1Title">小试牛刀之作</string>
+    <string name="btnT1">外部类监听Onclick事件</string>
+    <string name="btnT2">接入api监听Onclick事件</string>
+    <string name="marqueeText1">在广州某区某家大专院校某院系某专业某班里有个doge，他的名字叫做狗仔铭~又名某管理员，绰号嘴强doge！！</string>
+    <string name="marqueeText2">从前有座山，山上有座庙，庙的门前有个擎天柱，柱子旁边有个穿条纹衣服的柱子和尚在吃肉~</string>
+
+    <string name="acEditText">输入你想要找的逗比~~</string>
+    <string name="macEditText">万箭齐发！</string>
+    <string name="tBtnOff">呆毛开窍术：关</string>
+    <string name="tBtnOn">呆毛开窍术：开！</string>
+    <string name="confirmText">我已阅读并同意该网站的py交♂易协议</string>
+    <string name="textGender">请问你是？</string>
+    <string name="genderMale">男的</string>
+    <string name="genderFemale">女的</string>
+    <string name="btnChange1">Activity瞬移术！！</string>
+    <string name="btnChange2">带咒语的Activity瞬移术~</string>
+
+    <string name="title_activity_act2a">Act2</string>
+    <string name="act2aText">这是蛋♂定的第二个Activity~~</string>
+    <string name="act2bText">嘛哩嘛哩哄！！</string>
+
+    <string name="btnNum1">1</string>
+    <string name="btnNum2">2</string>
+    <string name="btnNum3">3</string>
+    <string name="btnNum4">4</string>
+    <string name="btnNum5">5</string>
+    <string name="btnNum6">6</string>
+    <string name="btnNum7">7</string>
+    <string name="btnNum8">8</string>
+    <string name="btnNum9">9</string>
+    <string name="btnNum0">0</string>
+    <string name="btnAdd">+</string>
+    <string name="btnLess">-</string>
+    <string name="btnMult">×</string>
+    <string name="btnExc">÷</string>
+    <string name="btnEq">=</string>
+    <string name="btnDot">.</string>
+    <string name="btnDel">DEL</string>
+    <string name="btnClear">C</string>
+</resources>
